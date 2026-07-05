@@ -13,7 +13,6 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/📍_Karachi,_Pakistan-6366F1?style=for-the-badge" />
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=MuhammadUsama-hub&label=Profile+Views&color=6366F1&style=flat-square" />
