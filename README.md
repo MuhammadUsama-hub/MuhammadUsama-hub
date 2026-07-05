@@ -162,19 +162,11 @@ A **multi-restaurant management platform** supporting operational workflows, cus
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MuhammadUsama-hub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=E2E8F0" height="170" />
-&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadUsama-hub&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=F97316&currStreakLabel=6366F1" height="170" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadUsama-hub&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=E2E8F0" height="150" />
-
 </div>
 
 <div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadUsama-hub&theme=tokyo-night&bg_color=0D1117&color=6366F1&line=6366F1&point=F97316&hide_border=true" />
-
 </div>
 
 ---
