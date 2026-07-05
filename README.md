@@ -2,7 +2,7 @@
 
 # Muhammad Usama Sheikh
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+%F0%9F%9A%80;Building+Scalable+SaaS+Platforms;AI-Powered+Systems+%26+Automation;Node.js+%7C+React+%7C+PostgreSQL+%7C+GCP)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+%F0%9F%9A%80;Building+Scalable+SaaS+Platforms;AI-Powered+Systems+%26+Automation)](https://git.io/typing-svg)
 
 <p>
   <a href="https://linkedin.com/in/muhammadusamasheikh">
