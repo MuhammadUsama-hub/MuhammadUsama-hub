@@ -59,8 +59,10 @@ I'm a **Full Stack Engineer with 2+ years of experience** building and maintaini
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT Auth](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![RBAC](https://img.shields.io/badge/RBAC-6366F1?style=for-the-badge&logo=auth0&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-2D3748?style=for-the-badge&logo=zapier&logoColor=white)
 
 ### Databases & ORMs
 
@@ -72,13 +74,29 @@ I'm a **Full Stack Engineer with 2+ years of experience** building and maintaini
 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Tools & Integrations
+### Payments & Integrations
+
+![Payfast](https://img.shields.io/badge/Payfast-00A651?style=for-the-badge&logoColor=white)
+![BrevoMail](https://img.shields.io/badge/BrevoMail-0B996E?style=for-the-badge&logo=sendinblue&logoColor=white)
+![Genkit Agent SDK](<https://img.shields.io/badge/Genkit_(Agent_SDK)-4285F4?style=for-the-badge&logo=google&logoColor=white>)
+
+### Engineering Practices
+
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-6366F1?style=for-the-badge)
+![Code Optimization](https://img.shields.io/badge/Code_Optimization-6366F1?style=for-the-badge)
+![Performance Tuning](https://img.shields.io/badge/Performance_Tuning-6366F1?style=for-the-badge)
+![Debugging](https://img.shields.io/badge/Debugging-6366F1?style=for-the-badge)
+![Requirement Analysis](https://img.shields.io/badge/Requirement_Analysis-6366F1?style=for-the-badge)
+
+### Tools
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Genkit](https://img.shields.io/badge/Google_Genkit-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![AI/LLM Dev](https://img.shields.io/badge/AI%2FLLM--Assisted_Dev-000000?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
